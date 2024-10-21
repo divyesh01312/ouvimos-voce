@@ -1,0 +1,161 @@
+@font-face {
+  font-family: 'fabrands400';
+  src: url('fabrands400.eot');
+  src: url('fabrands400.eot') format('embedded-opentype'),
+    url('fabrands400.woff2') format('woff2'),
+    url('fabrands400.woff') format('woff'),
+    url('fabrands400.ttf') format('truetype'),
+    url('fabrands400.svg#fabrands400') format('svg');
+}
+
+@font-face {
+  font-family: 'faregular400';
+  src: url('faregular400.eot');
+  src: url('faregular400.eot') format('embedded-opentype'),
+    url('faregular400.woff2') format('woff2'),
+    url('faregular400.woff') format('woff'),
+    url('faregular400.ttf') format('truetype'),
+    url('faregular400.svg#faregular400') format('svg');
+}
+
+@font-face {
+  font-family: 'fasolid900';
+  src: url('fasolid900.eot');
+  src: url('fasolid900.eot') format('embedded-opentype'),
+    url('fasolid900.woff2') format('woff2'),
+    url('fasolid900.woff') format('woff'),
+    url('fasolid900.ttf') format('truetype'),
+    url('fasolid900.svg#fasolid900') format('svg');
+}
+
+@font-face {
+  font-family: 'fav4compatibility';
+  src: url('fav4compatibility.eot');
+  src: url('fav4compatibility.eot') format('embedded-opentype'),
+    url('fav4compatibility.woff2') format('woff2'),
+    url('fav4compatibility.woff') format('woff'),
+    url('fav4compatibility.ttf') format('truetype'),
+    url('fav4compatibility.svg#fav4compatibility') format('svg');
+}
+
+@font-face {
+  font-family: 'FontAwesome6BrandsRegular400';
+  src: url('FontAwesome6BrandsRegular400.eot');
+  src: url('FontAwesome6BrandsRegular400.eot') format('embedded-opentype'),
+       url('FontAwesome6BrandsRegular400.woff2') format('woff2'),
+       url('FontAwesome6BrandsRegular400.woff') format('woff'),
+       url('FontAwesome6BrandsRegular400.ttf') format('truetype'),
+       url('FontAwesome6BrandsRegular400.svg#FontAwesome6BrandsRegular400') format('svg');
+}
+
+@font-face {
+  font-family: 'FontAwesome6FreeRegular400';
+  src: url('FontAwesome6FreeRegular400.eot');
+  src: url('FontAwesome6FreeRegular400.eot') format('embedded-opentype'),
+       url('FontAwesome6FreeRegular400.woff2') format('woff2'),
+       url('FontAwesome6FreeRegular400.woff') format('woff'),
+       url('FontAwesome6FreeRegular400.ttf') format('truetype'),
+       url('FontAwesome6FreeRegular400.svg#FontAwesome6FreeRegular400') format('svg');
+}
+
+@font-face {
+  font-family: 'FontAwesome6FreeSolid900';
+  src: url('FontAwesome6FreeSolid900.eot');
+  src: url('FontAwesome6FreeSolid900.eot') format('embedded-opentype'),
+       url('FontAwesome6FreeSolid900.woff2') format('woff2'),
+       url('FontAwesome6FreeSolid900.woff') format('woff'),
+       url('FontAwesome6FreeSolid900.ttf') format('truetype'),
+       url('FontAwesome6FreeSolid900.svg#FontAwesome6FreeSolid900') format('svg');
+}
+
+@font-face {
+  font-family: 'JUSTSansBold';
+  src: url('JUSTSansBold.eot');
+  src: url('JUSTSansBold.eot') format('embedded-opentype'),
+       url('JUSTSansBold.woff2') format('woff2'),
+       url('JUSTSansBold.woff') format('woff'),
+       url('JUSTSansBold.ttf') format('truetype'),
+       url('JUSTSansBold.svg#JUSTSansBold') format('svg');
+}
+
+@font-face {
+  font-family: 'JUSTSansExBold';
+  src: url('JUSTSansExBold.eot');
+  src: url('JUSTSansExBold.eot') format('embedded-opentype'),
+       url('JUSTSansExBold.woff2') format('woff2'),
+       url('JUSTSansExBold.woff') format('woff'),
+       url('JUSTSansExBold.ttf') format('truetype'),
+       url('JUSTSansExBold.svg#JUSTSansExBold') format('svg');
+}
+
+@font-face {
+  font-family: 'JUSTSansExLight';
+  src: url('JUSTSansExLight.eot');
+  src: url('JUSTSansExLight.eot') format('embedded-opentype'),
+       url('JUSTSansExLight.woff2') format('woff2'),
+       url('JUSTSansExLight.woff') format('woff'),
+       url('JUSTSansExLight.ttf') format('truetype'),
+       url('JUSTSansExLight.svg#JUSTSansExLight') format('svg');
+}
+
+@font-face {
+  font-family: 'JUSTSansLight';
+  src: url('JUSTSansLight.eot');
+  src: url('JUSTSansLight.eot') format('embedded-opentype'),
+       url('JUSTSansLight.woff2') format('woff2'),
+       url('JUSTSansLight.woff') format('woff'),
+       url('JUSTSansLight.ttf') format('truetype'),
+       url('JUSTSansLight.svg#JUSTSansLight') format('svg');
+}
+
+@font-face {
+  font-family: 'JUSTSansMedium';
+  src: url('JUSTSansMedium.eot');
+  src: url('JUSTSansMedium.eot') format('embedded-opentype'),
+       url('JUSTSansMedium.woff2') format('woff2'),
+       url('JUSTSansMedium.woff') format('woff'),
+       url('JUSTSansMedium.ttf') format('truetype'),
+       url('JUSTSansMedium.svg#JUSTSansMedium') format('svg');
+}
+
+@font-face {
+  font-family: 'JUSTSansRegular';
+  src: url('JUSTSansRegular.eot');
+  src: url('JUSTSansRegular.eot') format('embedded-opentype'),
+       url('JUSTSansRegular.woff2') format('woff2'),
+       url('JUSTSansRegular.woff') format('woff'),
+       url('JUSTSansRegular.ttf') format('truetype'),
+       url('JUSTSansRegular.svg#JUSTSansRegular') format('svg');
+}
+
+@font-face {
+  font-family: 'JUSTSansSemiBold';
+  src: url('JUSTSansSemiBold.eot');
+  src: url('JUSTSansSemiBold.eot') format('embedded-opentype'),
+       url('JUSTSansSemiBold.woff2') format('woff2'),
+       url('JUSTSansSemiBold.woff') format('woff'),
+       url('JUSTSansSemiBold.ttf') format('truetype'),
+       url('JUSTSansSemiBold.svg#JUSTSansSemiBold') format('svg');
+}
+
+@font-face {
+  font-family: 'SoraRegular';
+  src: url('SoraRegular.eot');
+  src: url('SoraRegular.eot') format('embedded-opentype'),
+       url('SoraRegular.woff2') format('woff2'),
+       url('SoraRegular.woff') format('woff'),
+       url('SoraRegular.ttf') format('truetype'),
+       url('SoraRegular.svg#SoraRegular') format('svg');
+}
+
+@font-face {
+  font-family: 'MontserratRegular';
+  src: url('MontserratRegular.eot');
+  src: url('MontserratRegular.eot') format('embedded-opentype'),
+       url('MontserratRegular.woff2') format('woff2'),
+       url('MontserratRegular.woff') format('woff'),
+       url('MontserratRegular.ttf') format('truetype'),
+       url('MontserratRegular.svg#MontserratRegular') format('svg');
+}
+
+
